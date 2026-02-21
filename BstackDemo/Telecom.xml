@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TelecomProjectSuite">
+ <!-- Attach Extent Report Listener -->
+  <listeners>
+    <listener class-name="utility.ExtentreportListener"/>
+  </listeners>
+
+  <test thread-count="5" name="Tests_RestApi">
+    <classes>
+      <class name="com.RestapiProject.TelecomP"/>
+    </classes>
+  </test> <!-- Tests_RestApi -->
+</suite> <!-- TelecomProjectSuite -->

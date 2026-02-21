@@ -1,0 +1,2 @@
+[6880:2260:1021/201854.778:VERBOSE1:installer.cc(429)] "D:\Automation 1\Project\chromesetup.exe" --port=34265 --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={18DE8468-FBE6-980D-73E4-0129585E423D}&lang=en&browser=5&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=x64-statsdef_1&installdataindex=empty --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2
+[6880:2260:1021/201922.811:VERBOSE1:installer.cc(541)] Metainstaller WMain returning: 3
